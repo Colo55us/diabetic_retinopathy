@@ -1,0 +1,1 @@
+extract all images in this folder
